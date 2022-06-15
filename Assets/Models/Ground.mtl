@@ -1,0 +1,5 @@
+newmtl Ground
+map_Kd GridBox_Default.png
+Kd 1 0.4849057 0.4849057
+d 1
+
